@@ -1,4 +1,9 @@
 Nome artefato: DocumentoRafaelBP.txt
 Nome do autor: Rafael Beffart Paludo
-Data de criação: 12/04/2017
-Hora de criação: 12:03:10
+Data de criaï¿½ï¿½o: 12/04/2017
+Hora de criaï¿½ï¿½o: 12:03:10
+
+Nome artefato: DocumentoRafaelBP.txt
+Nome do autor da alteraÃ§Ã£o: Victor Augusto Stillo Morais 
+Data da alteraÃ§Ã£o: 12/04/2017
+Hora da alteraÃ§Ã£o: 19:52:41
