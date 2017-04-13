@@ -1,4 +1,9 @@
 ﻿Nome artefato: DocumentoRafaelBP.txt
 Nome do autor: Rafael Beffart Paludo
-Data de cria��o: 12/04/2017
-Hora de cria��o: 12:03:10
+Data de criação: 12/04/2017
+Hora de criação: 12:03:10
+
+Nome artefato: DocumentoRafaelBP.txt
+Nome do autor da alteração: Julien David Castan
+Data da alteração: 13/04/2017
+Hora da alteração: 01:34:48
