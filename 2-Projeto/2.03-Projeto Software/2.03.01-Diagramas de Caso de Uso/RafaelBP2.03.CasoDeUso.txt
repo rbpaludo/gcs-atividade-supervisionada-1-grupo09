@@ -1,4 +1,4 @@
-Nome do artefato: RafaelBP2.03.CasoDeUso
+Nome do artefato: RafaelBP2.03.CasoDeUso.txt
 Nome do autor: Rafael Beffart Paludo
 Data da criação: 13/04/2017
 Hora da criação: 16:41:50
