@@ -5,3 +5,8 @@ Nome do autor: Julien David Castan
 Data de criação: 12/04/2017
 
 Hora de criação: 18:08:02
+
+Nome artefato: DocumentoJosneyo.txt
+ Nome do(a) autor(a) da alteração: Rodrigo Oliveira Gaíva Aguiar
+ Data da alteração: 13/04/2017
+ Hora da alteração: 13:08:30
