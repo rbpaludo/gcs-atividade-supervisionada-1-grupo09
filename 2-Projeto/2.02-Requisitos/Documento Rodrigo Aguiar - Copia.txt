@@ -1,0 +1,6 @@
+Nome artefato: novodocumentotrunk.txt
+Nome do(a) autor(a): Rodrigo Aguiar
+Data de criação: 13/04/2017
+Hora de criação: 19:29:15
+
+documento criado no trunk
