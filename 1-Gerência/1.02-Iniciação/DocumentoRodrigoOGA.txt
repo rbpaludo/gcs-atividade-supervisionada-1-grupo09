@@ -2,3 +2,8 @@ Nome do artefato: DocumentoRodrigoOGA.txt
 Nome do(a) autor(a): Rodrigo Oliveira Gaíva Aguiar
 Data de criação: 12/04/2017
 Hora de criação: 15:40:15
+
+Nome artefato: DocumentoRodrigoOGA.txt
+Nome do autor da alteração: Rafael Beffart Paludo
+Data da alteração: 13/04/2017
+Hora da alteração: 00:46:02
