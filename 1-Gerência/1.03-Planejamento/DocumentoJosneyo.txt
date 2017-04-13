@@ -10,3 +10,8 @@ Nome artefato: DocumentoJosneyo.txt
 Nome do(a) autor(a) da alteração: Rodrigo Oliveira Gaíva Aguiar
 Data da alteração: 13/04/2017
 Hora da alteração: 13:08:30
+
+Nome artefato: DocumentoJosneyo.txt
+Nome do autor da alteração: Victor Augusto Stillo Morais
+Data da altera��o: 13/04/2017
+Hora da altera��o: 14:03:30
